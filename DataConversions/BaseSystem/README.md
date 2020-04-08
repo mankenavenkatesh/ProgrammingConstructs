@@ -2,6 +2,7 @@
 # How to do base system conversions?
 https://www.handakafunda.com/understanding-base-system-concepts-and-questions-for-cat-exam/
 
+- https://www.youtube.com/watch?v=3ORJa_Hu0SE
 
 ## Online converter
 - https://www.rapidtables.com/convert/number/hex-to-decimal.html
