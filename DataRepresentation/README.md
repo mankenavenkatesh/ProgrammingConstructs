@@ -26,7 +26,6 @@ In decimal system, there are 10 symbols [0-9].
 ``BASE :  It is the number of distinct symbols used in a particular number system.``
 
 
-
-
 ## References
 - https://www.youtube.com/watch?v=-WNkBkIE560
+- https://www.youtube.com/watch?v=EvGJDtRLJn0&list=PLbtzT1TYeoMgzLyE9n-pJrTFZX18EUKw_

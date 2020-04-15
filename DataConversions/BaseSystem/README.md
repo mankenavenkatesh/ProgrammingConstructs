@@ -9,7 +9,7 @@ https://www.handakafunda.com/understanding-base-system-concepts-and-questions-fo
  - http://www.math.com/tables/general/base_conv.htm
 
 
- ## How to convert in program?
+## How to convert in program?
  -  Using built in parse and format functions.
  - parseInt will take any base system and outputs Decimal.
  - FormatInt will always take decimal and outputs required base system.
