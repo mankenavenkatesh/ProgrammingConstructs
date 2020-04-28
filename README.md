@@ -25,3 +25,5 @@ Data Types
 
 References 
 - https://tomassetti.me/resources-create-programming-languages/
+- https://www.algoexpert.io/product
+- https://www.youtube.com/watch?v=VP03XyUhZk4&list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL&index=5
