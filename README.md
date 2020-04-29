@@ -3,10 +3,12 @@ This repo is about understand what a programming language mean and it's construc
 
 Programming language deals with Data and Operation. 
 Data includes
-- data type.
-- data structures.
-- data conversion.
+- data types.
+- Data structures.
+- Data conversion.
 - Data Representation (how data is stored in memory) 
+- Data Buffers
+- Data Streams
 
 Operation includes
 - Comparision
