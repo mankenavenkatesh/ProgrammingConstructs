@@ -68,3 +68,6 @@ This example shows a date format that actually has recognizable parts:
 ### Usages
 - Parsing is majorly used in compiler design.
 - 
+
+### References
+- https://www.sohamkamani.com/blog/2017/10/18/parsing-json-in-golang/#:~:text=For%20any%20JSON%20string%2C%20the,%26myStoredVariable)%20%2F%2F...
