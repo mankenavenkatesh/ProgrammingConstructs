@@ -38,3 +38,7 @@ In decimal system, there are 10 symbols [0-9].
 - https://www.youtube.com/watch?v=EvGJDtRLJn0&list=PLbtzT1TYeoMgzLyE9n-pJrTFZX18EUKw_
 - - https://www.youtube.com/watch?v=VP03XyUhZk4&list=PL0oekSefhQVJdk0hSRu6sZ2teWM740NtL&index=5
 
+
+
+
+
